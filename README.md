@@ -2,6 +2,9 @@
 
 A simple and responsive web app to display a restaurant's menu and item prices.
 
+🌐 **Live Demo:**  
+👉 [https://mohammadali-moradi.github.io/resturant-menu-react/](https://mohammadali-moradi.github.io/resturant-menu-react/)
+
 ---
 
 ## 📌 Features
