@@ -22,6 +22,7 @@ npm install
 npm start
 ```
 Then open your browser at http://localhost:3000.
+---
 
 🖼️ Preview
 
